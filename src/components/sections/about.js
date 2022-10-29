@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Android', 'Kotlin', 'Java', 'Jetpack Compose', 'React-Native', 'JavaScript'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,25 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Hari Singh Kulhari and I enjoy creating things that live on the
+              internet. My interest in mobile app development started back in 2017 start learning
+              java and later on i decide to build app for the Android Phones.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Fast-forward to today, and I’ve had the privilege of working with multiple consultancy
+              compnies like <a href="https://coretechies.com/">Core Techies</a>,{' '}
+              <a href="https://www.ranosys.com/in/">Ranosys</a>,{' '}
+              <a href="https://www.capgemini.com/">Capgimeni</a>, and{' '}
+              <a href="https://www.hcltech.com/">HCLTech</a>. My main focus these days is building
+              accessible, inclusive products and digital experiences at{' '}
+              <a href="https://www.hcltech.com/">HCLTech</a> for a variety of clients.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I also do personal project to learn and contribute in comunity at{' '}
+              <a href="https://github.com/HariKulhari06">Github</a> with latest and treanding topics
+              in android cummunity.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -173,7 +168,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/hari.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
