@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Hari Singh Kulhari',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Hari Singh Kulhari is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://harisinghkulhari.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@HariKulhari',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'HariSinghKulhari',
+        short_name: 'HariSinghKulhari',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
