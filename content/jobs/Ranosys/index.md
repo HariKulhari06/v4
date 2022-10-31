@@ -1,13 +1,15 @@
 ---
-date: '2018-09-21'
+date: '2019-07-08'
 title: 'Senior Software Engineer'
 company: 'Ranosys'
 location: 'Jaipur, India'
-range: 'Sept-2022 - Persent'
-url: 'https://www.apple.com/music/'
+range: 'July-2019 - May-2021'
+url: 'https://www.ranosys.com/in/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Developed and shipped android applications for multiple clients like CharlesKeith, Aarong, Kumon Asia & Oceania Pte Ltd.
+- Implement TDD (Test driven development) for guaranty the a solid code
+- Design similar architecture for Android projects, facilitating the maintenance and code review between projects teams.
+- Works closely with developers and end users to ensure technical compatibility and user satisfaction
+- Provides thought-leadership regarding implementation best practices
+- Assists in estimation and assessment of feasibility of features

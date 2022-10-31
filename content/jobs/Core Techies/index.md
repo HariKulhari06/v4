@@ -3,11 +3,12 @@ date: '2017-03-01'
 title: 'Software Developer'
 company: 'Core Techies'
 location: 'Bikaner, India'
-range: 'Sept-2022 - Persent'
-url: 'https://www.apple.com/music/'
+range: 'March-2017 - June-2019'
+url: 'https://coretechies.com/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Propose new features, improvements, code refactors, technologies migration on workshops
+- Contribute technical ideas and suggestions to enhance the direction of the product
+- Make the demo of the work done throughout the sprint / commitment
+- Collaboration with the different transversal teams Security, UX/Design, QA, Backend
+- Realise several experiments and prof of concept about new functionality ideas or improvements
