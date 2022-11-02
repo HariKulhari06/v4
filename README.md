@@ -13,7 +13,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/harikulhari06/v4/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
