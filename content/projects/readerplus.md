@@ -1,7 +1,6 @@
 ---
 date: '2022-03-01'
 title: 'Reader+'
-cover: './demo.png'
 company: 'HCLTech'
 github: ''
 ios: ''

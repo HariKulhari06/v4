@@ -2,7 +2,6 @@
 date: '2022-02-01'
 title: 'Komuniti - Online Group Buy'
 company: 'Ranosys'
-cover: './demo.png'
 android: 'https://play.google.com/store/apps/details?id=com.komuniti.customer'
 external: ''
 tech:

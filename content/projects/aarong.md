@@ -1,7 +1,6 @@
 ---
 date: '2022-01-01'
 title: 'Aarong'
-cover: './demo.png'
 company: 'Ranosys'
 github: ''
 ios: ''
