@@ -6,7 +6,7 @@ github: ''
 ios: ''
 android: 'https://play.google.com/store/apps/details?id=com.pearson.android.readerplus&hl=en&gl=US'
 external: ''
-showInProjects: false
+showInProjects: true
 tech:
   - Android
   - Kotlin
