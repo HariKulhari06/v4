@@ -141,13 +141,14 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working with multiple consultancy
-              compnies like <a href="https://coretechies.com/">Core Techies</a>,{' '}
+              Fast-forward to today, and I’ve had the privilege of working with multiple compnies
+              like <a href="https://coretechies.com/">Core Techies</a>,{' '}
               <a href="https://www.ranosys.com/in/">Ranosys</a>,{' '}
-              <a href="https://www.capgemini.com/">Capgimeni</a>, and{' '}
-              <a href="https://www.hcltech.com/">HCLTech</a>. My main focus these days is building
-              accessible, inclusive products and digital experiences at{' '}
-              <a href="https://www.hcltech.com/">HCLTech</a> for a variety of clients.
+              <a href="https://www.capgemini.com/">Capgimeni</a>,
+              <a href="https://www.hcltech.com/">HCLTech</a> and{' '}
+              <a href="https://www.victoriassecret.com/">Victoria's Secret</a>. My main focus these
+              days is building accessible, inclusive products and digital experiences at{' '}
+              <a href="https://www.victoriassecret.com/">Victoria's Secret</a>.
             </p>
 
             <p>

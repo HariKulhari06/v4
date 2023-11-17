@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Reader+'
 cover: './demo.png'
 external: 'https://play.google.com/store/apps/details?id=com.pearson.android.readerplus&hl=en&gl=US'
