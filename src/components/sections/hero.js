@@ -67,8 +67,8 @@ const Hero = () => {
         I’m a software engineer specializing in building (and occasionally designing) exceptional
         digital experiences. Currently, I’m focused on building accessible, human-centered product
         at{' '}
-        <a href="https://www.hcltech.com/" target="_blank" rel="noreferrer">
-          HCLTech
+        <a href="https://www.victoriassecret.com/" target="_blank" rel="noreferrer">
+          Victoria’s Secret
         </a>
         .
       </p>
